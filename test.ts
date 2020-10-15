@@ -1,0 +1,3 @@
+{
+    AQbit.connectToWiFiNetwork("SSID", "key")
+}
